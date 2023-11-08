@@ -1,0 +1,18 @@
+Consumer Producer Example Output Code
+Below is an example of output code for this project that retrieved 10 items from the "table"
+I used the commands: 
+g++ -o consumerProducer consumerProducer.cpp -pthread
+and
+./ consumerProducer
+to retrieve the result
+
+Got 83
+Got 45
+Got 65
+Got 37
+Got 15
+Got 51
+Got 75
+Got 77
+Got 0
+Got 75
